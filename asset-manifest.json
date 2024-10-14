@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/Flavia_reposteria/static/css/main.60b73cba.css",
+    "main.js": "/Flavia_reposteria/static/js/main.cda377f2.js",
+    "static/media/hero-image.jpg": "/Flavia_reposteria/static/media/hero-image.0bc38de2b3fefd8a14b1.jpg",
+    "static/media/vainilla.jpg": "/Flavia_reposteria/static/media/vainilla.6e3bde63424993a6d7ea.jpg",
+    "static/media/Carlos.jpg": "/Flavia_reposteria/static/media/Carlos.81a67d8cccb801f9d859.jpg",
+    "static/media/chocolate.jpg": "/Flavia_reposteria/static/media/chocolate.48deb5845071f274b82d.jpg",
+    "static/media/limon.jpg": "/Flavia_reposteria/static/media/limon.49a44812dfc9f14df97f.jpg",
+    "static/media/cocinando.jpg": "/Flavia_reposteria/static/media/cocinando.28857e093b26abb3629b.jpg",
+    "static/media/flavia.png": "/Flavia_reposteria/static/media/flavia.2ceefdd24e59461df533.png",
+    "static/media/Juan.jpg": "/Flavia_reposteria/static/media/Juan.8f7e576a428727e6b6ef.jpg",
+    "static/media/frambuesa.jpg": "/Flavia_reposteria/static/media/frambuesa.a99613e2729077172e1c.jpg",
+    "static/media/Sofia.jpg": "/Flavia_reposteria/static/media/Sofia.94e519ab8186b938b1bd.jpg",
+    "static/media/mangas.jpg": "/Flavia_reposteria/static/media/mangas.6c2f179b7f5d383cd921.jpg",
+    "static/media/Laura.jpg": "/Flavia_reposteria/static/media/Laura.936e7d18c5aff39e808d.jpg",
+    "static/media/Maria.jpg": "/Flavia_reposteria/static/media/Maria.97b0c1f00f836e8d6026.jpg",
+    "index.html": "/Flavia_reposteria/index.html",
+    "main.60b73cba.css.map": "/Flavia_reposteria/static/css/main.60b73cba.css.map",
+    "main.cda377f2.js.map": "/Flavia_reposteria/static/js/main.cda377f2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.60b73cba.css",
+    "static/js/main.cda377f2.js"
+  ]
+}
